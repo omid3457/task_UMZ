@@ -65,5 +65,7 @@ while 1:
     elif command == 5:
         print('goodbye!!!!')
         break
+    else:
+        print('wrong option try again') 
     print('*' * 30)
 con.close()
